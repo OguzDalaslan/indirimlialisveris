@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\GenelTekrar\GenelTekrar\bin\Debug\GenelTekrar.exe.config
+C:\Users\User\Desktop\C#\GenelTekrar\GenelTekrar\bin\Debug\GenelTekrar.exe
+C:\Users\User\Desktop\C#\GenelTekrar\GenelTekrar\bin\Debug\GenelTekrar.pdb
+C:\Users\User\Desktop\C#\GenelTekrar\GenelTekrar\obj\Debug\GenelTekrar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\GenelTekrar\GenelTekrar\obj\Debug\GenelTekrar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\GenelTekrar\GenelTekrar\obj\Debug\GenelTekrar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\GenelTekrar\GenelTekrar\obj\Debug\GenelTekrar.exe
+C:\Users\User\Desktop\C#\GenelTekrar\GenelTekrar\obj\Debug\GenelTekrar.pdb
